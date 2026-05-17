@@ -15,19 +15,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD Rakib Rahman&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD Rakib Rahman&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MD Rakib Rahman&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rakib20244103417&theme=tokyonight)
 
 ---
 
@@ -51,19 +51,19 @@
 
 ## 📚 University Repositories
 
-### 📘 CSE 342
+### 📘 CSE 341 & 342 Advanced Programming Language Lab
 ![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE342&theme=tokyonight)
 
-### 📘 CSE 320
+### 📘 CSE 320 & 319 Computer Networks Lab
 ![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE320&theme=tokyonight)
 
-### 📘 CSE 318
+### 📘 CSE 317 & 318 system Analysis and Design Theory & Lab
 ![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE318&theme=tokyonight)
 
-### 📘 CSE 302
+### 📘 CSE 301 Technical Writing and presentation
 ![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE302&theme=tokyonight)
 
-### 📘 CSE 210
+### 📘 CSE 209 & 210 operating system
 ![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE210&theme=tokyonight)
 
 ### 📘 CSE 208
