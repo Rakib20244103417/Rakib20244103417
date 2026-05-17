@@ -84,7 +84,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 GitHub: https://github.com/MD Rakib Rahman  
+- 💼 GitHub: https://github.com/Rakib20244103417  
 - 📧 Email: mdrakibrahman46@email@gmail.com  
 - 🌍 Portfolio: (optional)
 
