@@ -44,12 +44,37 @@
 
 ## 📚 University Repositories
 
-- 📘 CSE312 - Algorithms  
-- 📘 CSE210 - Data Structures  
-- 📘 CSE208 - Database Systems  
-- 📘 CSE207 - Operating Systems  
-- 📘 CSE101 - Programming Basics  
+## 📚 University Repository Cards
 
+### 📘 CSE 342
+![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE342&theme=tokyonight)
+
+### 📘 CSE 320
+![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE320&theme=tokyonight)
+
+### 📘 CSE 318
+![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE318&theme=tokyonight)
+
+### 📘 CSE 302
+![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE302&theme=tokyonight)
+
+### 📘 CSE 210
+![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE210&theme=tokyonight)
+
+### 📘 CSE 208
+![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE208&theme=tokyonight)
+
+### 📘 CSE 232
+![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE232&theme=tokyonight)
+
+### 📘 CSE 215
+![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE215&theme=tokyonight)
+
+### 📘 CSE 222
+![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE222&theme=tokyonight)
+
+### 📘 CSE 101
+![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE101&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
