@@ -55,7 +55,7 @@
 ![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE342&theme=tokyonight)
 
 ### 📘 CSE 320 & 319 Computer Networks Lab
-![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE320&theme=tokyonight)
+![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417 &repo=CSE320&theme=tokyonight)
 
 ### 📘 CSE 317 & 318 system Analysis and Design Theory & Lab
 ![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE318&theme=tokyonight)
