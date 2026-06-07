@@ -77,7 +77,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/rakibrahman
+- GitHub: https://github.com/MD Rakib Rahman
 - LinkedIn: Add your LinkedIn profile here
 - Portfolio: Add your portfolio website here
 
