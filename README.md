@@ -135,7 +135,7 @@
 
 [![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE208&theme=tokyonight)](https://github.com/Rakib20244103417/CSE208)
 
-## 📘 CSE 101
+## 📘 CSE 101 sttucture programming Language
 
 [![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE101&theme=tokyonight)](https://github.com/Rakib20244103417/CSE101)
 
@@ -152,7 +152,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 Computer Science & Engineering Student
+- 🎓 Computer Science & Engineering 
 - 💻 Active GitHub Learner
 - 📖 Exploring Modern Software Development
 - 🌱 Continuous Learning Mindset
