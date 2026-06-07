@@ -1,73 +1,168 @@
-# 👋 Hello World, I'm Rakib Rahman
+<div align="center">
 
-🎓 CSE Student | 💻 Programmer | 🌐 Web Developer | 🎨 Designer
+# Hi 👋, I'm Rakib Rahman
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student;Programmer+%7C+Web+Developer;Learning+Data+Structures+and+Algorithms;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-## 🧠 About Me
+<img src="https://komarev.com/ghpvc/?username=Rakib20244103417&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-- 🔭 Currently working on Web Development & C++ Projects
-- 🌱 Learning Data Structures, Algorithms, and Full Stack Development
-- 🎯 Goal: Become a Software Engineer
-- 📍 From: Bangladesh
-- ⚡ Fun Fact: I love building creative projects
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=tokyonight&hide_border=true)
+🎓 CSE Student
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rakib20244103417&theme=tokyonight&hide_border=true)
+💻 Passionate Programmer & Web Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&theme=tokyonight&hide_border=true)
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Java Programming
+- C++
+- Full Stack Web Development
+- Computer Networks
+
+🎯 Goal:
+- Become a Software Engineer
+- Contribute to Open Source Projects
+
+📍 Location:
+- Bangladesh
+
+⚡ Fun Fact:
+- I enjoy building creative software projects and solving programming problems.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rakib20244103417">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🛠️ Skills
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,bootstrap,git,github,vscode,mysql"/>
+
+</div>
 
 ---
 
+## 📊 GitHub Statistics
 
+<div align="center">
 
-### Repository Cards
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE342&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE320&theme=tokyonight)
-
-![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)
-
-![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE302&theme=tokyonight)
-
-![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE232&theme=tokyonight)
-
-![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE222&theme=tokyonight)
-
-![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE215&theme=tokyonight)
-
-![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE210&theme=tokyonight)
-
-![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE208&theme=tokyonight)
-
-![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE101&theme=tokyonight)
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- GitHub: https://github.com/Rakib20244103417
-- LinkedIn: Add your LinkedIn profile here
-- Portfolio: Add your portfolio website here
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rakib20244103417&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ If you like my projects, don't forget to star my repositories!
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib20244103417&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 University Projects & Repositories
+
+## 📘 CSE 342
+
+[![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE342&theme=tokyonight)](https://github.com/Rakib20244103417/CSE342)
+
+## 📘 CSE 320
+
+[![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE320&theme=tokyonight)](https://github.com/Rakib20244103417/CSE320)
+
+## 📘 CSE 318
+
+[![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)](https://github.com/Rakib20244103417/CSE318)
+
+## 📘 CSE 302
+
+[![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE302&theme=tokyonight)](https://github.com/Rakib20244103417/CSE302)
+
+## 📘 CSE 232
+
+[![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE232&theme=tokyonight)](https://github.com/Rakib20244103417/CSE232)
+
+## 📘 CSE 222
+
+[![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE222&theme=tokyonight)](https://github.com/Rakib20244103417/CSE222)
+
+## 📘 CSE 215
+
+[![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE215&theme=tokyonight)](https://github.com/Rakib20244103417/CSE215)
+
+## 📘 CSE 210
+
+[![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE210&theme=tokyonight)](https://github.com/Rakib20244103417/CSE210)
+
+## 📘 CSE 208
+
+[![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE208&theme=tokyonight)](https://github.com/Rakib20244103417/CSE208)
+
+## 📘 CSE 101
+
+[![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE101&theme=tokyonight)](https://github.com/Rakib20244103417/CSE101)
+
+---
+
+## 🚀 Current Projects
+
+- 🎮 Word Guessing Game (C++)
+- 🌐 Web Development Projects
+- 🏘️ Neighborhood Time Capsule
+- 📚 Academic Programming Projects
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Active GitHub Learner
+- 📖 Exploring Modern Software Development
+- 🌱 Continuous Learning Mindset
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+"Code, Learn, Build, Repeat."
+
+</div>
