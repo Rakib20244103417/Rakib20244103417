@@ -16,11 +16,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibrahman&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rakibrahman&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rakib20244103417&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibrahman&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -36,42 +36,29 @@
 
 ---
 
-## 📚 University Repositories
 
-| Course | Repository |
-|---------|------------|
-| 📘 CSE 342 | CSE342 |
-| 📘 CSE 320 | CSE320 |
-| 📘 CSE 318 | CSE318 |
-| 📘 CSE 302 | CSE302 |
-| 📘 CSE 232 | CSE232 |
-| 📘 CSE 222 | CSE222 |
-| 📘 CSE 215 | CSE215 |
-| 📘 CSE 210 | CSE210 |
-| 📘 CSE 208 | CSE208 |
-| 📘 CSE 101 | CSE101 |
 
 ### Repository Cards
 
-![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE342&theme=tokyonight)
+![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE342&theme=tokyonight)
 
-![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE320&theme=tokyonight)
+![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE320&theme=tokyonight)
 
-![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE318&theme=tokyonight)
+![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)
 
-![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE302&theme=tokyonight)
+![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE302&theme=tokyonight)
 
-![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE232&theme=tokyonight)
+![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE232&theme=tokyonight)
 
-![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE222&theme=tokyonight)
+![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE222&theme=tokyonight)
 
-![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE215&theme=tokyonight)
+![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE215&theme=tokyonight)
 
-![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE210&theme=tokyonight)
+![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE210&theme=tokyonight)
 
-![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE208&theme=tokyonight)
+![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE208&theme=tokyonight)
 
-![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=rakibrahman&repo=CSE101&theme=tokyonight)
+![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE101&theme=tokyonight)
 
 ---
 
