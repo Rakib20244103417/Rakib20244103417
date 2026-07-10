@@ -12,10 +12,6 @@
 
 ## 👨‍💻 About Me
 
-🎓 CSE Student
-
-💻 Passionate Programmer & Web Developer
-
 🌱 Currently Learning:
 - Data Structures & Algorithms
 - Java Programming
@@ -47,7 +43,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:rakibrahman46@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -99,41 +95,25 @@
 
 # 📚 University Projects & Repositories
 
-## 📘 CSE 342
+## 📘 CSE 342  Advance programming Lab
 
 [![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE342&theme=tokyonight)](https://github.com/Rakib20244103417/CSE342)
 
-## 📘 CSE 320
+## 📘 CSE 320   computer Networking Lab
 
 [![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE320&theme=tokyonight)](https://github.com/Rakib20244103417/CSE320)
 
-## 📘 CSE 318
+## 📘 CSE 318 System Analysis and Design Lab 
 
 [![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)](https://github.com/Rakib20244103417/CSE318)
 
-## 📘 CSE 302
+## 📘 CSE 317 System Analysis and Design 
+
+[![CSE317](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)](https://github.com/Rakib20244103417/CSE318)
+
+## 📘 CSE 302  Structure programming Lab
 
 [![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE302&theme=tokyonight)](https://github.com/Rakib20244103417/CSE302)
-
-## 📘 CSE 232
-
-[![CSE232](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE232&theme=tokyonight)](https://github.com/Rakib20244103417/CSE232)
-
-## 📘 CSE 222
-
-[![CSE222](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE222&theme=tokyonight)](https://github.com/Rakib20244103417/CSE222)
-
-## 📘 CSE 215
-
-[![CSE215](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE215&theme=tokyonight)](https://github.com/Rakib20244103417/CSE215)
-
-## 📘 CSE 210
-
-[![CSE210](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE210&theme=tokyonight)](https://github.com/Rakib20244103417/CSE210)
-
-## 📘 CSE 208
-
-[![CSE208](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE208&theme=tokyonight)](https://github.com/Rakib20244103417/CSE208)
 
 ## 📘 CSE 101 sttucture programming Language
 
@@ -143,9 +123,6 @@
 
 ## 🚀 Current Projects
 
-- 🎮 Word Guessing Game (C++)
-- 🌐 Web Development Projects
-- 🏘️ Neighborhood Time Capsule
 - 📚 Academic Programming Projects
 
 ---
@@ -155,7 +132,6 @@
 - 🎓 Computer Science & Engineering 
 - 💻 Active GitHub Learner
 - 📖 Exploring Modern Software Development
-- 🌱 Continuous Learning Mindset
 
 ---
 
