@@ -1,126 +1,144 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>University Repositories</title>
+<div align="center">
 
-<style>
-body{
-    font-family:Arial,sans-serif;
-    background:#f5f5f5;
-    margin:40px;
-}
-h2{
-    margin-bottom:5px;
-}
-p{
-    color:#666;
-}
-.container{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:20px;
-}
-.card{
-    background:#fff;
-    border:1px solid #d0d7de;
-    border-radius:8px;
-    padding:18px;
-    transition:.2s;
-}
-.card:hover{
-    box-shadow:0 3px 12px rgba(0,0,0,.12);
-}
-.card h3{
-    margin:0;
-    color:#0969da;
-}
-.card p{
-    font-size:14px;
-    line-height:1.5;
-}
-.lang{
-    margin-top:15px;
-    font-size:14px;
-}
-.dot{
-    height:12px;
-    width:12px;
-    background:#f34b7d;
-    border-radius:50%;
-    display:inline-block;
-    margin-right:6px;
-}
-</style>
+# Hi 👋, I'm Rakib Rahman
 
-</head>
-<body>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student;Programmer+%7C+Web+Developer;Learning+Data+Structures+and+Algorithms;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<h2>University Repositories</h2>
-
-<p>My university coursework archive of course materials, assignments and practice.</p>
-
-<div class="container">
-
-<div class="card">
-<h3>cse324</h3>
-<p>Compiler Design from my 6th semester. Instructor: Md. Nahid Hossian</p>
-<div class="lang">
-<span class="dot"></span>C++
-</div>
-</div>
-
-<div class="card">
-<h3>cse326</h3>
-<p>Microprocessor and Microcontroller Lab from my 6th semester. Instructor: Nourin Khandaker</p>
-<div class="lang">
-<span class="dot" style="background:#b07219;"></span>Assembly
-</div>
-</div>
-
-<div class="card">
-<h3>cse322</h3>
-<p>Artificial Intelligence and Expert System Lab from my 6th semester.</p>
-<div class="lang">
-<span class="dot" style="background:#3572A5;"></span>Python
-</div>
-</div>
-
-<div class="card">
-<h3>cse342</h3>
-<p>Java Advanced Programming from my 5th semester.</p>
-<div class="lang">
-<span class="dot" style="background:#b07219;"></span>Java
-</div>
-</div>
-
-<div class="card">
-<h3>cse320</h3>
-<p>Computer Networks from my 5th semester.</p>
-<div class="lang">
-<span class="dot" style="background:#b07219;"></span>Java
-</div>
-</div>
-
-<div class="card">
-<h3>cse318</h3>
-<p>System Analysis and Design from my 5th semester.</p>
-</div>
-
-<div class="card">
-<h3>cse302</h3>
-<p>Technical Writing and Presentation from my 5th semester.</p>
-</div>
-
-<div class="card">
-<h3>cse210</h3>
-<p>Operating System Lab assignments and projects completed during my 4th semester.</p>
-<div class="lang">
-<span class="dot"></span>C++
-</div>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Rakib20244103417&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-</body>
-</html>
+---
+
+## 👨‍💻 About Me
+
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Java Programming
+- C++
+- Full Stack Web Development
+- Computer Networks
+
+🎯 Goal:
+- Become a Software Engineer
+- Contribute to Open Source Projects
+
+📍 Location:
+- Bangladesh
+
+⚡ Fun Fact:
+- I enjoy building creative software projects and solving programming problems.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rakib20244103417">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rakibrahman46@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,bootstrap,git,github,vscode,mysql"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rakib20244103417&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib20244103417&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 University Projects & Repositories
+
+## 📘 CSE 342  Advance programming Lab
+
+[![CSE342](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE342&theme=tokyonight)](https://github.com/Rakib20244103417/CSE342)
+
+## 📘 CSE 320   computer Networking Lab
+
+[![CSE320](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE320&theme=tokyonight)](https://github.com/Rakib20244103417/CSE320)
+
+## 📘 CSE 318 System Analysis and Design Lab 
+
+[![CSE318](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)](https://github.com/Rakib20244103417/CSE318)
+
+## 📘 CSE 317 System Analysis and Design 
+
+[![CSE317](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE318&theme=tokyonight)](https://github.com/Rakib20244103417/CSE318)
+
+## 📘 CSE 302  Structure programming Lab
+
+[![CSE302](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE302&theme=tokyonight)](https://github.com/Rakib20244103417/CSE302)
+
+## 📘 CSE 101 sttucture programming Language
+
+[![CSE101](https://github-readme-stats.vercel.app/api/pin/?username=Rakib20244103417&repo=CSE101&theme=tokyonight)](https://github.com/Rakib20244103417/CSE101)
+
+---
+
+## 🚀 Current Projects
+
+- 📚 Academic Programming Projects
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Computer Science & Engineering 
+- 💻 Active GitHub Learner
+- 📖 Exploring Modern Software Development
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+"Code, Learn, Build, Repeat."
+
+</div>
