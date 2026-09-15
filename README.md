@@ -143,14 +143,14 @@ Structure programming language from my 1st semester.
 <tr>
 <td>
 
-### 📁 CSE 322
+### 📁 CSE-321 & 322
 
 Artificial Intelligence and Expert System Lab from my 6th semester.
 
 **Instructor:** Md. Mamun Hossain
 
-<a href="https://github.com/Rakib20244103417/cse322">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/Artificial-Intelligence-and-Expert-System-Theory-Lab">
+  View content
 </a>
 
 </td>
@@ -159,12 +159,12 @@ Artificial Intelligence and Expert System Lab from my 6th semester.
 
 ### 📁 CSE 342
 
-Java Advanced Programming from my 5th semester.
+Digital Logic Design Theory & Lab from my 3th semester.
 
-**Java** ⭐ 1
+ ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse342">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/Digital-Logic-Design-Theory-LAb">
+  View content
 </a>
 
 </td>
@@ -185,16 +185,14 @@ Computer Networks from my 5th semester.
 
 <td>
 
-### 📁 CSE 318
+### 📁 CSE 317 & 318
 
 System Analysis and Design from my 5th semester.
 
-**Instructor:** Shampa Banik
-
 ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse318">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/-system-Analysis-and-Design-Theory-Lab-">
+  View content
 </a>
 
 </td>
@@ -203,7 +201,7 @@ System Analysis and Design from my 5th semester.
 <tr>
 <td>
 
-### 📁 CSE 302
+### 📁 CSE 301
 
 Technical Writing and Presentation from my 5th semester.
 
