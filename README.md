@@ -327,42 +327,8 @@ Basic C programming practice.
 
 ---
 
-## 📚 Current Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0969DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-0969DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0969DA?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
 
----
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib20244103417&theme=minimal" />
-</p>
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Rakib20244103417">
-    <img src="https://img.shields.io/badge/GitHub-Rakib20244103417-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rakib20244103417">
-    <img src="https://komarev.com/ghpvc/?username=Rakib20244103417&label=Profile%20Views&color=0969DA&style=flat" />
-  </a>
-</p>
