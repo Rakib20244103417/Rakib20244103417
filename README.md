@@ -269,14 +269,12 @@ Algorithms Lab codes and problems.
 
 ### 📁 CSE 215
 
-Computer Architecture from my 4th semester.
-
-**Instructor:** Nasrin Akter
+Computer Architecture from my 6th semester.
 
 ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse215">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/Computer-Architecture">
+  View content
 </a>
 
 </td>
@@ -290,7 +288,7 @@ Data Structure Theory and Lab from my 3rd semester.
 **C++** ⭐ 1
 
 <a href="https://github.com/Rakib20244103417/cse222">
-  View Repository →
+  View content
 </a>
 
 </td>
@@ -301,12 +299,12 @@ Data Structure Theory and Lab from my 3rd semester.
 
 ### 📁 CSE 111
 
-C++ programming step by step from my 2nd semester.
+Object Oriented Programming step by step from my 2nd semester.
 
 **C++** ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse111">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/Object-Oriented-Programming">
+  View content
 </a>
 
 </td>
