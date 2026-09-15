@@ -1,186 +1,370 @@
+# Hello World, I'm Rakib 👋🏼
 
-<!-- ============================= -->
-<!-- UNIVERSITY REPOSITORIES       -->
-<!-- ============================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Programmer+%7C+Learner+%7C+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-<section class="repositories" id="repositories">
+<p align="center">
+  <img src="https://img.shields.io/badge/Programmer-0969DA?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learner-24292F?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-0969DA?style=flat-square&logo=codeforces&logoColor=white" />
+</p>
 
-    <div class="section-heading">
-        <span class="section-label">MY WORKSPACE</span>
+<p align="center">
+  <b>Blending curiosity with logic.</b>
+</p>
 
-        <h2>University Repositories</h2>
+---
 
-        <p class="intro">
-            My university coursework archive of course materials,
-            assignments and practice.
-        </p>
-    </div>
+## 👨‍💻 About Me
 
-    <!-- More repositories -->
+* 🎓 Computer Science & Engineering student
+* 💻 Interested in programming and software development
+* 🤖 Currently learning Machine Learning
+* 🧠 Practicing Algorithms & Data Structures
+* ☕ Working with Java and C++
+* 🌐 Exploring Software Engineering and Computer Networks
+* 📚 Maintaining my university coursework repositories
+* 🚀 Always learning and building something new
 
-    <div class="more-repositories">
-        <span class="arrow-icon">↗</span>
+---
 
-        <a href="https://github.com/Rakib20244103417?tab=repositories"
-           target="_blank"
-           rel="noopener noreferrer">
-            More repositories here
-        </a>
-    </div>
+## 🛠️ Technologies & Tools
 
-    <!-- Repository Grid -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,git,github,html,css" />
+</p>
 
-    <div class="repo-grid">
+---
 
-        <!-- CSE 319 -->
+## 📊 GitHub Statistics
 
-        <a href="https://github.com/Rakib20244103417/CSE-319"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="repo-card">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib20244103417&show_icons=true&theme=default&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib20244103417&layout=compact&langs_count=8&theme=default&hide_border=false" height="165" />
+</p>
 
-            <div class="repo-top">
-                <div class="repo-icon">
-                    <i class="fa-brands fa-github"></i>
-                </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib20244103417&theme=default&hide_border=false" />
+</p>
 
-                <span class="repo-arrow">↗</span>
-            </div>
+---
 
-            <h3>cse319</h3>
+## 🎓 University Repositories
 
-            <p>
-                Machine Learning from my 7th semester.
-                Instructor: Nasirul Mumenin
-            </p>
+My university coursework archive of course materials, assignments, labs and practice.
 
-            <div class="repo-bottom">
-                <span><i class="fa-solid fa-code"></i> CSE</span>
-                <span>7th Semester</span>
-            </div>
+<p align="center">
+  <a href="https://github.com/Rakib20244103417?tab=repositories">
+    
+  </a>
+</p>
 
-        </a>
+<table>
+<tr>
+<td width="50%">
 
+### 📁 CSE 319
 
-        <!-- CSE 328 -->
+Computer Networking from my 5th semester.
 
-        <a href="https://github.com/Rakib20244103417/cse328"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="repo-card">
+<a href="https://github.com/Rakib20244103417/CSE-319">
+  View content
+</a>
 
-            <div class="repo-top">
-                <div class="repo-icon">
-                    <i class="fa-brands fa-github"></i>
-                </div>
+</td>
 
-                <span class="repo-arrow">↗</span>
-            </div>
+<td width="50%">
 
-            <h3>cse328</h3>
+### 📁 CSE 320
 
-            <p>
-                Software Engineering from my 7th semester.
-                Instructor: Nahida Akter Tanjila
-            </p>
+Computer Networking Lab from my 5th semester.
 
-            <div class="repo-bottom">
-                <span><i class="fa-solid fa-code"></i> CSE</span>
-                <span>7th Semester</span>
-            </div>
+<a href="https://github.com/Rakib20244103417/CSE-320-LAB">
+  View content
+</a>
 
-        </a>
+</td>
+</tr>
 
+<tr>
+<td>
 
-        <!-- MKT 301 -->
+### 📁 CSE-341 
 
-        <a href="https://github.com/Rakib20244103417/mkt301"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="repo-card">
+Java Advanced Programming from my 5th semester.
+Instructor:Shaila Shaznin 
 
-            <div class="repo-top">
-                <div class="repo-icon">
-                    <i class="fa-brands fa-github"></i>
-                </div>
+<a href="https://github.com/Rakib20244103417/CSE-341">
+  View content
+</a>
 
-                <span class="repo-arrow">↗</span>
-            </div>
+</td>
 
-            <h3>mkt301</h3>
+<td>
 
-            <p>
-                Marketing course materials,
-                assignments and practice.
-            </p>
+### 📁 CSE-342
 
-            <div class="repo-bottom">
-                <span><i class="fa-solid fa-book"></i> MKT</span>
-                <span>Coursework</span>
-            </div>
+Java Advanced Programming Lab  from my 5th semester.
+<a href="https://github.com/Rakib20244103417/CSE-342">
+  View content
+</a>
 
-        </a>
+</td>
+</tr>
 
+<tr>
+<td>
 
-        <!-- ACT 301 -->
+### 📁 CSE-209 and CSE-210
 
-        <a href="https://github.com/Rakib20244103417/act301"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="repo-card">
+CSE-209 & CSE-210 from my 4th semester.
+operating-system-Theory-Lab
 
-            <div class="repo-top">
-                <div class="repo-icon">
-                    <i class="fa-brands fa-github"></i>
-                </div>
+<a href="https://github.com/Rakib20244103417/operating-system-Theory-Lab">
+  View content
+</a>
 
-                <span class="repo-arrow">↗</span>
-            </div>
+</td>
 
-            <h3>act301</h3>
+<td>
 
-            <p>
-                Accounting course materials,
-                assignments and practice.
-            </p>
+### 📁 CSE-101 and 102
 
-            <div class="repo-bottom">
-                <span><i class="fa-solid fa-book"></i> ACT</span>
-                <span>Coursework</span>
-            </div>
+Structure programming language from my 1st semester.
 
-        </a>
+<a href="">
+  View content
+</a>
 
+</td>
+</tr>
 
-        <!-- CSE 324 -->
+<tr>
+<td>
 
-        <a href="https://github.com/Rakib20244103417/cse324"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="repo-card">
+### 📁 CSE 322
 
-            <div class="repo-top">
-                <div class="repo-icon">
-                    <i class="fa-brands fa-github"></i>
-                </div>
+Artificial Intelligence and Expert System Lab from my 6th semester.
 
-                <span class="repo-arrow">↗</span>
-            </div>
+**Instructor:** Md. Mamun Hossain
 
-            <h3>cse324</h3>
+<a href="https://github.com/Rakib20244103417/cse322">
+  View Repository →
+</a>
 
-            <p>
-                Course materials and assignments
-                from my 6th semester.
-            </p>
+</td>
 
-            <div class="repo-bottom">
-                <span><i class="fa-solid fa-code"></i> CSE</span>
-                <span>6th Semester</span>
-            </div>
+<td>
 
-        </a>
+### 📁 CSE 342
 
-    </div>
+Java Advanced Programming from my 5th semester.
 
-</section>
+**Java** ⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse342">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📁 CSE 320
+
+Computer Networks from my 5th semester.
+
+<a href="https://github.com/Rakib20244103417/cse320">
+  View Repository →
+</a>
+
+</td>
+
+<td>
+
+### 📁 CSE 318
+
+System Analysis and Design from my 5th semester.
+
+**Instructor:** Shampa Banik
+
+⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse318">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📁 CSE 302
+
+Technical Writing and Presentation from my 5th semester.
+
+**Instructor:** Sworna Akter
+
+⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse302">
+  View Repository →
+</a>
+
+</td>
+
+<td>
+
+### 📁 CSE 210
+
+Operating System Lab assignments and projects.
+
+**C++** ⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse210">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📁 CSE 208
+
+MySQL Database Lab repository from my 4th semester.
+
+**Instructor:** Farha Akter Munmun
+
+⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse208">
+  View Repository →
+</a>
+
+</td>
+
+<td>
+
+### 📁 CSE 232
+
+Algorithms Lab codes and problems.
+
+**C++** ⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse232">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📁 CSE 215
+
+Computer Architecture from my 4th semester.
+
+**Instructor:** Nasrin Akter
+
+⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse215">
+  View Repository →
+</a>
+
+</td>
+
+<td>
+
+### 📁 CSE 222
+
+Data Structure Theory and Lab from my 3rd semester.
+
+**C++** ⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse222">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📁 CSE 111
+
+C++ programming step by step from my 2nd semester.
+
+**C++** ⭐ 1
+
+<a href="https://github.com/Rakib20244103417/cse111">
+  View Repository →
+</a>
+
+</td>
+
+<td>
+
+### 📁 CSE 101
+
+Basic C programming practice.
+
+**C** ⭐ 1   ♧ 1
+
+<a href="https://github.com/Rakib20244103417/CSE-101">
+  View content
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Current Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0969DA?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib20244103417&theme=minimal" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rakib20244103417">
+    <img src="https://img.shields.io/badge/GitHub-Rakib20244103417-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rakib20244103417">
+    <img src="https://komarev.com/ghpvc/?username=Rakib20244103417&label=Profile%20Views&color=0969DA&style=flat" />
+  </a>
+</p>
