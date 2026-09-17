@@ -279,13 +279,13 @@ Computer Architecture from my 6th semester.
 
 <td>
 
-### 📁 CSE 222
+### 📁 CSE 212 & 222
 
 Data Structure Theory and Lab from my 3rd semester.
 
 **C++** ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse222">
+<a href="https://github.com/Rakib20244103417/Data-Structure-Theory-and-Lab">
   View content
 </a>
 
