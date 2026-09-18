@@ -173,18 +173,6 @@ Digital Logic Design Theory & Lab from my 3th semester.
 <tr>
 <td>
 
-### 📁 CSE 320
-
-Computer Networks from my 5th semester.
-
-<a href="https://github.com/Rakib20244103417/cse320">
-  View Repository →
-</a>
-
-</td>
-
-<td>
-
 ### 📁 CSE 317 & 318
 
 System Analysis and Design from my 5th semester.
@@ -201,57 +189,23 @@ System Analysis and Design from my 5th semester.
 <tr>
 <td>
 
-### 📁 CSE 301
+### 📁 CSE 207 & 208
 
-Technical Writing and Presentation from my 5th semester.
-
-**Instructor:** Sworna Akter
+Database Theory & Lab repository from my 4th semester.
 
 ⭐ 1
 
-<a href="https://github.com/Rakib20244103417/cse302">
-  View Repository →
+<a href="https://github.com/Rakib20244103417/Database-Theory-Lab">
+  View content
 </a>
 
 </td>
 
 <td>
 
-### 📁 CSE 210
+### 📁 CSE 231 & 232
 
-Operating System Lab assignments and projects.
-
-**C++** ⭐ 1
-
-<a href="https://github.com/Rakib20244103417/cse210">
-  View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📁 CSE 208
-
-MySQL Database Lab repository from my 4th semester.
-
-**Instructor:** Farha Akter Munmun
-
-⭐ 1
-
-<a href="https://github.com/Rakib20244103417/cse208">
-  View Repository →
-</a>
-
-</td>
-
-<td>
-
-### 📁 CSE 232
-
-Algorithms Lab codes and problems.
+Algorithms Theory & Lab from my 4th semester..
 
 **C++** ⭐ 1
 
