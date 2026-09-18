@@ -130,11 +130,11 @@ operating-system-Theory-Lab
 
 <td>
 
-### 📁 CSE-101 and 102
+### 📁 MAT 231
 
-Structure programming language from my 1st semester.
+Complex Variable and Statistics from my 1st semester.
 
-<a href="">
+<a href="https://github.com/Rakib20244103417/Complex-Variable-and-Statistics">
   View content
 </a>
 
@@ -266,7 +266,7 @@ Object Oriented Programming step by step from my 2nd semester.
 
 ### 📁 CSE 101
 
-Basic C programming practice.
+Basic C programming practice.1st semester
 
 **C** ⭐ 1   ♧ 1
 
